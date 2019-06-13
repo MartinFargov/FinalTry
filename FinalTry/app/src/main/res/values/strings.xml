@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyNearbyPlaces</string>
+    <string name="title_activity_maps">Map7y7o</string>
+    <string name="search_bar_hint">Searching places</string>
+    <string name="search">Search</string>
+    <string name="go">GO</string>
+    <string name="btn_hospital">Hospitals</string>
+    <string name="btn_supermarket">Supermarkets</string>
+    <string name="btn_school">Schools</string>
+    <string name="btn_pool">Pools</string>
+    <color name="white">#FFE8D4</color>
+</resources>
+
